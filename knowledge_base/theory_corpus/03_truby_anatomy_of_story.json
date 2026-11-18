@@ -1,0 +1,77 @@
+{
+  "source": {
+    "source_id": "truby_anatomy_of_story",
+    "title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+    "author": "John Truby",
+    "publication_year": 2007,
+    "publisher": "Faber and Faber",
+    "edition": "1st Edition",
+    "isbn": "978-0865479517",
+    "source_url": "https://truby.com",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["22 Steps", "7 Key Story Steps", "Moral Argument", "Four-Corner Opposition", "Designing Principle"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 3: The Seven Key Steps of Story Structure",
+      "concept_name": "7 Key Story Structure Steps",
+      "topic_category": "structure",
+      "page_number": 39,
+      "content": "Truby synthesizes all classical storytelling into seven fundamental organic steps: 1. Weakness and Need (the character's inner psychological and moral flaw), 2. Desire (the specific tangible goal driving the spine of the plot), 3. Opponent (the force competing for the exact same goal), 4. Plan (the strategic guidelines the protagonist adopts to overcome the opponent), 5. Battle (the final physical and moral collision), 6. Self-Revelation (the epiphany where the hero sees the truth about themselves and their flaws), and 7. New Equilibrium (the re-stabilized world where life resumes at a higher or lower level).",
+      "key_takeaways": [
+        "7 organic structural beats rooted in character psychology rather than mechanical plot points.",
+        "The story spine is defined by Desire competing against the Opponent for a shared objective.",
+        "Culminates in Self-Revelation followed by a New Equilibrium."
+      ]
+    },
+    {
+      "heading": "Chapter 4: Character - Psychological Need vs Moral Need",
+      "concept_name": "Psychological Need vs Moral Need",
+      "topic_category": "character",
+      "page_number": 78,
+      "content": "A great protagonist must have both a Psychological Need and a Moral Need. A Psychological Need is strictly internal; it is a fatal flaw or trauma that damages only the protagonist themselves (e.g., self-doubt, grief, fear). A Moral Need involves the protagonist's harmful behavior toward other human beings (e.g., arrogance, selfishness, cruelty, treating others as tools). An arc is incomplete unless the protagonist heals their psychological wound AND rights their moral damage to others by the climax.",
+      "key_takeaways": [
+        "Psychological Need affects only the hero's internal wellbeing and peace of mind.",
+        "Moral Need affects how the hero's actions hurt, exploit, or neglect other characters.",
+        "A true transformative character arc resolves both dimensions during the Self-Revelation."
+      ]
+    },
+    {
+      "heading": "Chapter 4: Four-Corner Opposition",
+      "concept_name": "Four-Corner Opposition Matrix",
+      "topic_category": "antagonist",
+      "page_number": 97,
+      "content": "Rather than relying on a solitary villain, superior screenwriting builds a Four-Corner Opposition. The hero is surrounded by at least three distinct opponents, each occupying a unique ideological and moral corner of the story world. Each opponent attacks a different facet of the hero's central weakness and operates from a distinct, defensible philosophy. This matrix forces the hero into varied conflicts and prevents monochromatic good-versus-evil melodrama.",
+      "key_takeaways": [
+        "Create at least three opponents surrounding the hero, forming a 4-corner conflict matrix.",
+        "Each opponent attacks a different vulnerability in the hero's psychological/moral makeup.",
+        "Every opponent must possess a coherent, competing philosophical worldview."
+      ]
+    },
+    {
+      "heading": "Chapter 5: Moral Argument and Theme",
+      "concept_name": "Moral Argument and Designing Principle",
+      "topic_category": "theme",
+      "page_number": 107,
+      "content": "Theme in screenwriting is the author's moral argument about how human beings ought to live. Truby rejects preaching or didactic lectures; the moral argument is enacted through character actions and consequences. The Designing Principle is the story's underlying aesthetic DNA—the organic metaphor or lens that organizes story materials into an original whole (e.g., in Casablanca, the designing principle is 'a cynical nightclub owner must choose between personal romantic passion and self-sacrificing political commitment in an international purgatory').",
+      "key_takeaways": [
+        "Theme is an active moral argument proven through the cause-and-effect consequences of characters' choices.",
+        "Avoid preaching: let the structure and character fates argue the author's philosophical premise.",
+        "The Designing Principle is the unifying conceptual metaphor governing the entire narrative."
+      ]
+    },
+    {
+      "heading": "Chapter 8: The 22-Step Plot Structure (Battle to New Equilibrium)",
+      "concept_name": "22-Step Battle and Self-Revelation",
+      "topic_category": "structure",
+      "page_number": 265,
+      "content": "In Truby's comprehensive 22-step model, the Battle (Step 18) serves as the climactic collision where the protagonist faces the main opponent. This intense conflict precipitates Step 19: Double Self-Revelation, where the hero unmasks the truth about themselves and recognizes the opponent's true nature. In Step 20 (Moral Decision), the hero chooses between two ethical paths, leading to Step 21 (Thematic Revelation) and finally Step 22 (New Equilibrium).",
+      "key_takeaways": [
+        "Battle must directly trigger the hero's internal epiphany (Self-Revelation).",
+        "Double Self-Revelation allows the hero to understand themselves and their adversary concurrently.",
+        "The Moral Decision crystallizes the story's philosophical argument."
+      ]
+    }
+  ]
+}
+

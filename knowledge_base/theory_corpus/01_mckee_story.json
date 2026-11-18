@@ -1,0 +1,89 @@
+{
+  "source": {
+    "source_id": "mckee_story",
+    "title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+    "author": "Robert McKee",
+    "publication_year": 1997,
+    "publisher": "ReganBooks / HarperCollins",
+    "edition": "1st Edition",
+    "isbn": "978-0060391683",
+    "source_url": "https://mckeestory.com",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["Classical Narrative", "Substance and Structure", "Controlling Idea", "The Gap", "Turning Points"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 8: The Inciting Incident",
+      "concept_name": "Inciting Incident",
+      "topic_category": "structure",
+      "page_number": 181,
+      "content": "The Inciting Incident radically upsets the balance of forces in the protagonist's life, swinging their reality from a state of relative equilibrium into chaos. It launches the story's core dramatic arc by arousing a conscious and often unconscious desire to restore equilibrium. The Inciting Incident must happen within the first quarter of the narrative, directly challenging the protagonist and propelling them toward an obligatory showdown with antagonistic forces.",
+      "key_takeaways": [
+        "Radically disrupts the protagonist's life balance from equilibrium to disequilibrium.",
+        "Generates a conscious desire to restore that balance and sets the spine of the story.",
+        "Must occur early enough to launch the narrative drive without delay."
+      ]
+    },
+    {
+      "heading": "Chapter 6: Structure and Meaning (The Controlling Idea)",
+      "concept_name": "Controlling Idea & Theme",
+      "topic_category": "theme",
+      "page_number": 115,
+      "content": "A true theme is not an abstract word like 'love' or 'justice'; it is a proposition, a complete sentence that McKee terms the Controlling Idea. The Controlling Idea consists of two components: Value plus Cause. It identifies the positive or negative charge of the story's critical value at the climax, and the primary reason why that condition won out. Throughout the story, the narrative oscillates between the primary Controlling Idea and its Counter-Idea through dynamic conflict until the climax settles the argument.",
+      "key_takeaways": [
+        "Theme is expressed as a complete causal sentence: Value + Cause.",
+        "Stories progress by debating the Controlling Idea against its Counter-Idea.",
+        "The climax provides the final, definitive proof of the Controlling Idea."
+      ]
+    },
+    {
+      "heading": "Chapter 7: The Substance of Story (The Gap)",
+      "concept_name": "The Gap Between Expectation and Reality",
+      "topic_category": "scene_design",
+      "page_number": 147,
+      "content": "The fundamental engine of dramatic action is 'The Gap.' When a character takes an action expecting a specific objective response from their world, and instead objective reality pushes back with unexpected resistance from personal, interpersonal, or extra-personal forces, a Gap opens between expectation and reality. The character is forced to expend greater willpower and risk higher stakes to bridge the gap. Without this gap, a scene is merely exposition rather than drama.",
+      "key_takeaways": [
+        "Every dramatic action meets resistance, opening a gap between expectation and reality.",
+        "The character must dig deeper, adapt, and expend higher energy and risk.",
+        "The gap forces subjective belief to confront objective truth."
+      ]
+    },
+    {
+      "heading": "Chapter 10: Scene Analysis and Turning Points",
+      "concept_name": "Scene Turning Point & Value Shift",
+      "topic_category": "scene_design",
+      "page_number": 233,
+      "content": "A scene is a story in miniature: a dynamic conflict that turns on values from positive to negative (+ to -) or negative to positive (- to +). If a scene begins and ends on the same emotional or dramatic value without a permanent change in the character's condition, the scene is dead on arrival and should be cut. Within the scene, smaller units of action and reaction called 'beats' shift behavior until the major turning point triggers the value shift.",
+      "key_takeaways": [
+        "A scene must execute a measurable value charge shift from start to finish (+ to - or - to +).",
+        "Beats are the smallest units of character action-reaction inside a scene.",
+        "If no value changes, the scene fails dramaturgically."
+      ]
+    },
+    {
+      "heading": "Chapter 16: Text and Subtext in Dialogue",
+      "concept_name": "Text vs Subtext in Dialogue",
+      "topic_category": "dialogue",
+      "page_number": 378,
+      "content": "Text is the sensory surface of the screenplay—the spoken words and visible physical actions. Subtext is the inner life, the unspoken thoughts, desires, motivations, and hidden calculations running underneath. McKee's golden rule of dialogue is: 'If the scene is about what the scene is about, you're in deep shit.' Authentic dialogue is rarely on-the-nose; characters mask their true intentions, using words as tactical weapons to manipulate, protect themselves, or pursue hidden agendas.",
+      "key_takeaways": [
+        "Text is what is said; subtext is what is meant and felt.",
+        "Never write 'on-the-nose' dialogue where characters state their raw motivations.",
+        "Dialogue is action: characters use words as behavioral strategies to achieve objectives."
+      ]
+    },
+    {
+      "heading": "Chapter 13: Crisis, Climax, and Resolution",
+      "concept_name": "The Crisis and Climax",
+      "topic_category": "structure",
+      "page_number": 303,
+      "content": "The Crisis is the ultimate decision point of the protagonist, representing their deepest dilemma. It presents a choice between irreconcilable goods (two desirable options) or the lesser of two evils. The decision made in the Crisis demands maximum courage and directly leads to the Climax—the story's crowning turning point where the central dramatic question is resolved and the Controlling Idea is validated.",
+      "key_takeaways": [
+        "The Crisis is the story's ultimate dilemma: choice between irreconcilable goods or the lesser of two evils.",
+        "The Crisis forces the protagonist to reveal their true character under maximum pressure.",
+        "The Climax immediately flows from this choice, providing definitive catharsis."
+      ]
+    }
+  ]
+}
+

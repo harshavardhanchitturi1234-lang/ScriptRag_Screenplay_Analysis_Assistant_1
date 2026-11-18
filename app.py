@@ -209,6 +209,98 @@ st.markdown(f"""
         margin-top: 2px;
     }}
 
+    /* Chunk Processing Statistics Card */
+    .chunk-stats-card {{
+        background: linear-gradient(135deg, var(--bg-card) 0%, var(--bg-elevated) 100%);
+        border: 1px solid var(--border-color);
+        border-radius: 12px;
+        padding: 1.2rem 1.4rem;
+        margin-top: -0.8rem;
+        margin-bottom: 1.6rem;
+        box-shadow: 0 4px 18px rgba(0, 0, 0, 0.35);
+    }}
+
+    .chunk-stats-header {{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 1rem;
+        padding-bottom: 0.6rem;
+        border-bottom: 1px solid rgba(48, 55, 67, 0.6);
+    }}
+
+    .chunk-stats-title {{
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 0.95rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        display: flex;
+        align-items: center;
+        gap: 8px;
+    }}
+
+    .chunk-status-pill {{
+        background-color: rgba(101, 184, 176, 0.15);
+        color: var(--accent-teal);
+        border: 1px solid rgba(101, 184, 176, 0.35);
+        border-radius: 6px;
+        padding: 3px 10px;
+        font-size: 0.76rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }}
+
+    .chunk-stat-highlight {{
+        background-color: var(--bg-secondary);
+        border: 1px solid rgba(217, 154, 69, 0.4);
+        border-radius: 8px;
+        padding: 0.8rem 0.6rem;
+        text-align: center;
+    }}
+
+    .chunk-stat-highlight .chunk-num {{
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 1.8rem;
+        font-weight: 700;
+        color: var(--accent-amber);
+        line-height: 1.1;
+    }}
+
+    .chunk-stat-highlight .chunk-lbl {{
+        font-size: 0.72rem;
+        font-weight: 600;
+        color: var(--accent-amber);
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+        margin-top: 4px;
+    }}
+
+    .chunk-param-box {{
+        background-color: var(--bg-secondary);
+        border: 1px solid var(--border-color);
+        border-radius: 8px;
+        padding: 0.8rem 0.6rem;
+        text-align: center;
+    }}
+
+    .chunk-param-box .param-val {{
+        font-family: 'Space Grotesk', sans-serif;
+        font-size: 1.35rem;
+        font-weight: 600;
+        color: var(--text-primary);
+        line-height: 1.1;
+    }}
+
+    .chunk-param-box .param-lbl {{
+        font-size: 0.7rem;
+        font-weight: 500;
+        color: var(--text-secondary);
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+        margin-top: 4px;
+    }}
+
     /* Metrics Grid */
     .metric-card {{
         background-color: var(--bg-card);
@@ -481,12 +573,42 @@ if not st.session_state.screenplay_stats:
 else:
     # Sophisticated Active Screenplay Card with reset action
     sp = st.session_state.screenplay_stats
+    actual_chunks = sp.get("total_chunks", len(rag.screenplay_chunks))
+    
     st.markdown(f"""
     <div class="active-script-card">
         <div>
             <div class="script-info-title">Active Production Script</div>
             <div class="script-info-name">{sp['name']}</div>
             <div class="script-info-meta">{sp['total_pages']} Pages &nbsp;•&nbsp; {sp['total_scenes']} Scenes &nbsp;•&nbsp; {sp['total_named_characters']} Named Speaking Characters</div>
+        </div>
+    </div>
+
+    <!-- Prominent Document Chunking Statistics (Displayed immediately below upload section) -->
+    <div class="chunk-stats-card">
+        <div class="chunk-stats-header">
+            <div class="chunk-stats-title">
+                <span>📄 Document Indexing & Chunk Statistics: <strong>{sp['name']}</strong></span>
+            </div>
+            <div class="chunk-status-pill">● Processed Successfully</div>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px;">
+            <div class="chunk-stat-highlight">
+                <div class="chunk-num">{actual_chunks}</div>
+                <div class="chunk-lbl">Total Chunks Generated</div>
+            </div>
+            <div class="chunk-param-box">
+                <div class="param-val">{sp['total_pages']}</div>
+                <div class="param-lbl">Total Pages</div>
+            </div>
+            <div class="chunk-param-box">
+                <div class="param-val">{rag.chunk_size} chars</div>
+                <div class="param-lbl">Chunk Size</div>
+            </div>
+            <div class="chunk-param-box">
+                <div class="param-val">{rag.chunk_overlap} chars</div>
+                <div class="param-lbl">Chunk Overlap</div>
+            </div>
         </div>
     </div>
     """, unsafe_allow_html=True)

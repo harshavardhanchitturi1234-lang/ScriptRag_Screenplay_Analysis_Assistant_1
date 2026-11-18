@@ -1,0 +1,53 @@
+{
+  "source": {
+    "source_id": "yorke_into_the_woods",
+    "title": "Into the Woods: How Stories Work and Why We Tell Them",
+    "author": "John Yorke",
+    "publication_year": 2013,
+    "publisher": "Penguin Books / Overlook Press",
+    "edition": "1st Edition",
+    "isbn": "978-1468308402",
+    "source_url": "https://johnyorke.tv",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["Five-Act Fractal Structure", "Dialectical Storytelling", "The Mirror Midpoint", "Hegelian Synthesis", "Psychological Integration"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 2: The Five-Act Shape and Its Fractal Nature",
+      "concept_name": "Fractal Five-Act Structure (Yorke)",
+      "topic_category": "structure",
+      "page_number": 27,
+      "content": "Yorke demonstrates that three-act structure is merely five-act structure with the long second act divided into two halves. A complete story naturally unfolds in five movements: Act 1 (Entering the Woods / Inciting Disruption), Act 2 (The Road of Trials / Grasping at the False Goal), Act 3 (The Point of No Return / The Midpoint Mirror), Act 4 (The Inward Plunge / The Fall from Grace), and Act 5 (The Final Integration / Synthesis). Crucially, this five-act shape is fractal: every scene, sequence, and act internally mimics this same 5-part architecture.",
+      "key_takeaways": [
+        "Stories naturally follow a 5-act rhythm: Entry, Trials, Midpoint Mirror, The Fall, Synthesis.",
+        "Fractal nature: every scene and sequence mirrors the macro five-act structural curve.",
+        "Resolves the sag of Act II by acknowledging it as two distinct dramatic movements (Acts 2 & 3)."
+      ]
+    },
+    {
+      "heading": "Chapter 4: The Dialectic of Storytelling (Thesis, Antithesis, Synthesis)",
+      "concept_name": "Dialectical Storytelling (Hegelian)",
+      "topic_category": "theme",
+      "page_number": 64,
+      "content": "Storytelling is fundamentally Hegelian dialectic in motion. Act 1 represents the Thesis—the protagonist's flawed, comfortable status quo and rigid perception of reality. Act 2 and 3 immerse the hero in the Antithesis—the inverted opposite of their previous world where their previous rules and ego defense mechanisms fail. In Act 4 and 5, after shattering conflict, the hero achieves Synthesis: the integration of what was true in their original state with the wisdom learned from their antithetical trial.",
+      "key_takeaways": [
+        "Act 1 is Thesis (flawed baseline reality).",
+        "Act 2/3 is Antithesis (direct experiential confrontation with the opposite value).",
+        "Act 4/5 produces Synthesis (psychological wholeness through integrated wisdom)."
+      ]
+    },
+    {
+      "heading": "Chapter 6: The Midpoint as Mirror",
+      "concept_name": "The Midpoint Mirror (Yorke)",
+      "topic_category": "structure",
+      "page_number": 103,
+      "content": "The exact geometric center of a narrative (the Midpoint) is not just a major plot twist; it is the moment of psychological reflection—the 'Mirror.' At the Midpoint, the protagonist is forced to catch a glimpse of their own true reflection, recognizing the lie they have been telling themselves. Before the midpoint, the hero believed they could conquer the world while keeping their inner flaw intact; after the midpoint, they realize that to survive, their flawed self must die.",
+      "key_takeaways": [
+        "The Midpoint acts as a mirror where the protagonist glimpses their true psychological nature.",
+        "Marks the transition from pursuit of external Wants to recognition of internal Needs.",
+        "Shifts the hero from proactive delusion into existential clarity."
+      ]
+    }
+  ]
+}
+

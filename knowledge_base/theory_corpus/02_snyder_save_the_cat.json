@@ -1,0 +1,89 @@
+{
+  "source": {
+    "source_id": "snyder_save_the_cat",
+    "title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+    "author": "Blake Snyder",
+    "publication_year": 2005,
+    "publisher": "Michael Wiese Productions",
+    "edition": "1st Edition",
+    "isbn": "978-1932907001",
+    "source_url": "https://savethecat.com",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["Save the Cat Beat Sheet", "15 Beats", "Commercial Structure", "Character Sympathy", "Exposition Techniques"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 4: The Blake Snyder Beat Sheet (BS2 Overview)",
+      "concept_name": "15-Beat Screenplay Structure",
+      "topic_category": "structure",
+      "page_number": 68,
+      "content": "The Blake Snyder Beat Sheet (BS2) divides a standard 110-page screenplay into 15 precise dramaturgical beats: 1. Opening Image (p. 1), 2. Theme Stated (p. 5), 3. Set-up (pp. 1-10), 4. Catalyst (p. 12), 5. Debate (pp. 12-25), 6. Break into Two (p. 25), 7. B Story (p. 30), 8. Fun and Games (pp. 30-55), 9. Midpoint (p. 55), 10. Bad Guys Close In (pp. 55-75), 11. All Is Lost (p. 75), 12. Dark Night of the Soul (pp. 75-85), 13. Break into Three (p. 85), 14. Finale (pp. 85-110), 15. Final Image (p. 110). These beats ensure a calibrated pacing cycle balancing thesis, antithesis, and synthesis.",
+      "key_takeaways": [
+        "Provides 15 benchmark structural beats across a standard 110-page screenplay.",
+        "Calibrates narrative pacing with explicit page target benchmarks.",
+        "Ensures emotional peaks and valleys follow a disciplined dramatic rhythm."
+      ]
+    },
+    {
+      "heading": "Chapter 4: Midpoint and All Is Lost",
+      "concept_name": "Midpoint & All Is Lost Dynamic",
+      "topic_category": "structure",
+      "page_number": 82,
+      "content": "The Midpoint (page 55) is either a false victory (up) or a false defeat (down). It raises the stakes from public to private, transforming the protagonist's journey from playful exploration into deadly earnestness. Conversely, the All Is Lost beat (page 75) is the inverted mirror of the Midpoint. If the Midpoint was a false peak, All Is Lost is the total nadir. Snyder emphasizes that All Is Lost must contain a 'whiff of death'—either physical, emotional, or symbolic—shattering the protagonist's old operating assumptions.",
+      "key_takeaways": [
+        "Midpoint is either a 'false high' or 'false low' that dramatically raises the stakes.",
+        "All Is Lost is the opposite extreme of the Midpoint, forcing the protagonist into rock bottom.",
+        "All Is Lost must contain a 'whiff of death'—something must symbolically or literally die."
+      ]
+    },
+    {
+      "heading": "Chapter 4: The Debate Beat and Break into Two",
+      "concept_name": "Debate & Break into Two",
+      "topic_category": "structure",
+      "page_number": 74,
+      "content": "Between the Catalyst (p. 12) and the Break into Two (p. 25) lies the Debate section. This sequence answers the question: Can the protagonist ignore the call or avoid the journey? The answer must always be no, but the character must deliberate, resist, or test alternatives. When they finally Break into Two, the protagonist must proactively choose to enter the Upside-Down World of Act Two. They cannot be pushed or passively pulled; they must step across the threshold under their own agency.",
+      "key_takeaways": [
+        "The Debate beat shows the gravity of the decision facing the protagonist.",
+        "Break into Two must be an active choice by the protagonist, never a passive accident.",
+        "Marks the clean boundary between the Thesis world (Act 1) and the Antithesis world (Act 2)."
+      ]
+    },
+    {
+      "heading": "Chapter 1: The 'Save the Cat' Rule",
+      "concept_name": "Save the Cat Character Introduction",
+      "topic_category": "character",
+      "page_number": 19,
+      "content": "The namesake rule states that when we first meet the hero, they must perform an action that makes the audience like them and want to root for them—such as saving a cat from a tree, showing unexpected compassion, or revealing a hidden vulnerability. Even if the protagonist is flawed, cynical, or anti-heroic (e.g., Pulp Fiction, Casablanca), the writer must establish an undeniable anchor of empathy and moral decency early in the first ten pages.",
+      "key_takeaways": [
+        "Establish audience empathy within the first 10 pages through a decisive humane or endearing action.",
+        "Essential for anti-heroes and morally ambiguous protagonists.",
+        "Gives the audience a compelling reason to invest emotionally in the character's survival and growth."
+      ]
+    },
+    {
+      "heading": "Chapter 6: Immutable Screenwriting Laws (Pope in the Pool)",
+      "concept_name": "Pope in the Pool Exposition Rule",
+      "topic_category": "dialogue",
+      "page_number": 133,
+      "content": "Exposition is often tedious backstory or technical rules that the audience needs to comprehend the plot. The 'Pope in the Pool' rule dictates that when necessary exposition must be delivered, the writer should stage it during an arresting, humorous, or bizarre visual event (e.g., the Pope swimming in a Vatican pool wearing swim trunks). The audience's conscious attention is captured by the unusual spectacle while their subconscious effortlessly absorbs the vital exposition.",
+      "key_takeaways": [
+        "Never deliver dry exposition in a static, talking-heads conference room.",
+        "Pair heavy background information with visually arresting or comic conflict.",
+        "Masks the mechanical delivery of exposition behind active entertainment."
+      ]
+    },
+    {
+      "heading": "Chapter 6: Dark Night of the Soul and Break into Three",
+      "concept_name": "Dark Night of the Soul",
+      "topic_category": "character",
+      "page_number": 86,
+      "content": "Following All Is Lost, the Dark Night of the Soul (pages 75-85) depicts the character's emotional mourning and existential despair. Having stripped away their ego, their old coping mechanisms, and their false wants, the protagonist sits in the dark and finally discovers what they truly 'need'. This realization acts as the catalytic spark for the Break into Three (p. 85), where a new synthesis emerges to launch the final battle.",
+      "key_takeaways": [
+        "Depicts the total surrender of the old ego and false coping mechanisms.",
+        "Allows the protagonist to discover their true Need before the final confrontation.",
+        "Acts as the essential emotional launchpad for the Act Three resurgence."
+      ]
+    }
+  ]
+}
+

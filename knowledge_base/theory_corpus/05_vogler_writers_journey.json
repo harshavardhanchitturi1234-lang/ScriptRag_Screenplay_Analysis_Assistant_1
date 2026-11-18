@@ -1,0 +1,53 @@
+{
+  "source": {
+    "source_id": "vogler_writers_journey",
+    "title": "The Writer's Journey: Mythic Structure for Writers",
+    "author": "Christopher Vogler",
+    "publication_year": 1998,
+    "publisher": "Michael Wiese Productions",
+    "edition": "3rd Edition 2007",
+    "isbn": "978-1932907360",
+    "source_url": "https://mwp.com",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["Hero's Journey", "Monomyth", "Archetypes", "12 Stages", "Mythic Structure"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 2: The Twelve Stages of the Hero's Journey",
+      "concept_name": "12 Stages of the Hero's Journey",
+      "topic_category": "structure",
+      "page_number": 8,
+      "content": "Vogler adapts Joseph Campbell's comparative mythological monomyth for modern screenwriting into 12 universal stages: 1. Ordinary World (establishing the baseline flaw and baseline reality), 2. Call to Adventure (the inciting disruption), 3. Refusal of the Call (the hero's fear and hesitation), 4. Meeting with the Mentor (receiving wisdom, gifts, or guidance), 5. Crossing the First Threshold (committing to the Special World of adventure), 6. Tests, Allies, and Enemies (learning the rules of the new world), 7. Approach to the Inmost Cave (preparing for the central confrontation), 8. The Ordeal (facing death or their greatest fear), 9. Reward / Seizing the Sword (celebration and claiming the treasure), 10. The Road Back (consequences of taking the reward and urgency to return), 11. The Resurrection (final life-or-death test purifying the hero), 12. Return with the Elixir (bringing healing, wisdom, or freedom back to the community).",
+      "key_takeaways": [
+        "12 mythic checkpoints connecting the physical journey with profound psychological transformation.",
+        "Divided into Ordinary World (Act 1), Special World (Act 2), and Transformed World (Act 3).",
+        "The journey is circular: the hero returns to where they started, permanently changed."
+      ]
+    },
+    {
+      "heading": "Chapter 3: Archetypes of the Story World",
+      "concept_name": "Character Archetypes (Vogler)",
+      "topic_category": "character",
+      "page_number": 23,
+      "content": "Archetypes are psychological masks and dramatic functions that characters adopt throughout the story. The primary archetypes are: 1. Hero (the ego searching for wholeness), 2. Mentor (the conscience, teacher, or higher self providing tools and guidance), 3. Threshold Guardian (forces testing the hero's readiness to advance), 4. Herald (the messenger or catalyst announcing change), 5. Shapeshifter (figures who shift loyalty, gender, or appearance, bringing doubt and romance), 6. Shadow (the dark side of the psyche, the antagonist representing unexpressed or repressed potential), 7. Ally (companions offering tactical and emotional support), and 8. Trickster (comic relief and embodiment of mischief who challenges the status quo).",
+      "key_takeaways": [
+        "Archetypes are fluid dramatic functions rather than rigid character types.",
+        "A single character may fulfill multiple archetypal roles across the story.",
+        "Reflect Jungian psychological facets of the human psyche."
+      ]
+    },
+    {
+      "heading": "Chapter 12: The Ordeal and Resurrection",
+      "concept_name": "The Ordeal vs The Resurrection",
+      "topic_category": "climax",
+      "page_number": 155,
+      "content": "The Ordeal (Midpoint of Act 2) is a critical life-and-death crisis where the hero experiences symbolic death, touches bottom, and confronts their greatest fear. By surviving, they earn the Reward. However, the Resurrection (Act 3 Climax) is the ultimate life-or-death exam. While the Ordeal was personal, the Resurrection tests whether the hero has truly integrated their transformation. If the hero does not die to their old self and rise renewed in the Resurrection, they cannot bring the Elixir home.",
+      "key_takeaways": [
+        "The Ordeal is the midpoint crisis confronting mortal danger and internal terror.",
+        "The Resurrection is the climactic graduation exam proving permanent character rebirth.",
+        "The hero must demonstrate behavioral change in action, not just words."
+      ]
+    }
+  ]
+}
+

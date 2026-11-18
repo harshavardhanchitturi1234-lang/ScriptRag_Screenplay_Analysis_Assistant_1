@@ -26,7 +26,7 @@ def clean_character_name(raw_name: str) -> Tuple[str, str, bool]:
     Parses character cue, separating canonical name, modifier/parenthetical, and voice/off-screen status.
     Returns: (cleaned_name, modifier, is_offscreen)
     """
-    cleaned = raw_name.strip()
+    cleaned = raw_name.strip()     
     is_offscreen = False
     modifier = ""
 

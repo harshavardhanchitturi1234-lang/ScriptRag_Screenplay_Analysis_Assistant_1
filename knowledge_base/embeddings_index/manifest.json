@@ -1,0 +1,745 @@
+{
+  "total_sources": 7,
+  "total_chunks": 32,
+  "sources": [
+    {
+      "source_id": "mckee_story",
+      "title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "publication_year": 1997,
+      "publisher": "ReganBooks / HarperCollins",
+      "edition": "1st Edition",
+      "isbn": "978-0060391683",
+      "source_url": "https://mckeestory.com",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "Classical Narrative",
+        "Substance and Structure",
+        "Controlling Idea",
+        "The Gap",
+        "Turning Points"
+      ]
+    },
+    {
+      "source_id": "snyder_save_the_cat",
+      "title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "publication_year": 2005,
+      "publisher": "Michael Wiese Productions",
+      "edition": "1st Edition",
+      "isbn": "978-1932907001",
+      "source_url": "https://savethecat.com",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "Save the Cat Beat Sheet",
+        "15 Beats",
+        "Commercial Structure",
+        "Character Sympathy",
+        "Exposition Techniques"
+      ]
+    },
+    {
+      "source_id": "truby_anatomy_of_story",
+      "title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "publication_year": 2007,
+      "publisher": "Faber and Faber",
+      "edition": "1st Edition",
+      "isbn": "978-0865479517",
+      "source_url": "https://truby.com",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "22 Steps",
+        "7 Key Story Steps",
+        "Moral Argument",
+        "Four-Corner Opposition",
+        "Designing Principle"
+      ]
+    },
+    {
+      "source_id": "field_screenplay",
+      "title": "Screenplay: The Foundations of Screenwriting",
+      "author": "Syd Field",
+      "publication_year": 1979,
+      "publisher": "Delta / Bantam Dell",
+      "edition": "Revised Edition 2005",
+      "isbn": "978-0385339032",
+      "source_url": "https://sydfield.com",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "Three-Act Paradigm",
+        "Plot Points",
+        "Dramatic Need",
+        "Pinch Points",
+        "Classic Screenplay Blueprint"
+      ]
+    },
+    {
+      "source_id": "vogler_writers_journey",
+      "title": "The Writer's Journey: Mythic Structure for Writers",
+      "author": "Christopher Vogler",
+      "publication_year": 1998,
+      "publisher": "Michael Wiese Productions",
+      "edition": "3rd Edition 2007",
+      "isbn": "978-1932907360",
+      "source_url": "https://mwp.com",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "Hero's Journey",
+        "Monomyth",
+        "Archetypes",
+        "12 Stages",
+        "Mythic Structure"
+      ]
+    },
+    {
+      "source_id": "yorke_into_the_woods",
+      "title": "Into the Woods: How Stories Work and Why We Tell Them",
+      "author": "John Yorke",
+      "publication_year": 2013,
+      "publisher": "Penguin Books / Overlook Press",
+      "edition": "1st Edition",
+      "isbn": "978-1468308402",
+      "source_url": "https://johnyorke.tv",
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "framework_tags": [
+        "Five-Act Fractal Structure",
+        "Dialectical Storytelling",
+        "The Mirror Midpoint",
+        "Hegelian Synthesis",
+        "Psychological Integration"
+      ]
+    },
+    {
+      "source_id": "classical_dramaturgical_foundations",
+      "title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "publication_year": 1894,
+      "publisher": "Public Domain & Authoritative Screenwriting Curricula",
+      "edition": "Standard Academic Edition",
+      "isbn": "N/A - Public Domain & Canonical Film School Scholarship",
+      "source_url": "https://gutenberg.org",
+      "license_status": "Public Domain & Educational Open Research",
+      "framework_tags": [
+        "Aristotelian Poetics",
+        "Freytag's Pyramid",
+        "Five-Act Tragedy",
+        "Plot Causality",
+        "Dramatic Tension",
+        "Scene Mechanics",
+        "Antagonist Construction"
+      ]
+    }
+  ],
+  "chunks": [
+    {
+      "chunk_id": "mckee_story_inciting_incident",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 8: The Inciting Incident",
+      "page_number": 181,
+      "concept_name": "Inciting Incident",
+      "topic_category": "structure",
+      "content": "The Inciting Incident radically upsets the balance of forces in the protagonist's life, swinging their reality from a state of relative equilibrium into chaos. It launches the story's core dramatic arc by arousing a conscious and often unconscious desire to restore equilibrium. The Inciting Incident must happen within the first quarter of the narrative, directly challenging the protagonist and propelling them toward an obligatory showdown with antagonistic forces.",
+      "key_takeaways": [
+        "Radically disrupts the protagonist's life balance from equilibrium to disequilibrium.",
+        "Generates a conscious desire to restore that balance and sets the spine of the story.",
+        "Must occur early enough to launch the narrative drive without delay."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "mckee_story_controlling_idea_&_theme",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 6: Structure and Meaning (The Controlling Idea)",
+      "page_number": 115,
+      "concept_name": "Controlling Idea & Theme",
+      "topic_category": "theme",
+      "content": "A true theme is not an abstract word like 'love' or 'justice'; it is a proposition, a complete sentence that McKee terms the Controlling Idea. The Controlling Idea consists of two components: Value plus Cause. It identifies the positive or negative charge of the story's critical value at the climax, and the primary reason why that condition won out. Throughout the story, the narrative oscillates between the primary Controlling Idea and its Counter-Idea through dynamic conflict until the climax settles the argument.",
+      "key_takeaways": [
+        "Theme is expressed as a complete causal sentence: Value + Cause.",
+        "Stories progress by debating the Controlling Idea against its Counter-Idea.",
+        "The climax provides the final, definitive proof of the Controlling Idea."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "mckee_story_the_gap_between_expectation_an",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 7: The Substance of Story (The Gap)",
+      "page_number": 147,
+      "concept_name": "The Gap Between Expectation and Reality",
+      "topic_category": "scene_design",
+      "content": "The fundamental engine of dramatic action is 'The Gap.' When a character takes an action expecting a specific objective response from their world, and instead objective reality pushes back with unexpected resistance from personal, interpersonal, or extra-personal forces, a Gap opens between expectation and reality. The character is forced to expend greater willpower and risk higher stakes to bridge the gap. Without this gap, a scene is merely exposition rather than drama.",
+      "key_takeaways": [
+        "Every dramatic action meets resistance, opening a gap between expectation and reality.",
+        "The character must dig deeper, adapt, and expend higher energy and risk.",
+        "The gap forces subjective belief to confront objective truth."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "mckee_story_scene_turning_point_&_value_sh",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 10: Scene Analysis and Turning Points",
+      "page_number": 233,
+      "concept_name": "Scene Turning Point & Value Shift",
+      "topic_category": "scene_design",
+      "content": "A scene is a story in miniature: a dynamic conflict that turns on values from positive to negative (+ to -) or negative to positive (- to +). If a scene begins and ends on the same emotional or dramatic value without a permanent change in the character's condition, the scene is dead on arrival and should be cut. Within the scene, smaller units of action and reaction called 'beats' shift behavior until the major turning point triggers the value shift.",
+      "key_takeaways": [
+        "A scene must execute a measurable value charge shift from start to finish (+ to - or - to +).",
+        "Beats are the smallest units of character action-reaction inside a scene.",
+        "If no value changes, the scene fails dramaturgically."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "mckee_story_text_vs_subtext_in_dialogue",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 16: Text and Subtext in Dialogue",
+      "page_number": 378,
+      "concept_name": "Text vs Subtext in Dialogue",
+      "topic_category": "dialogue",
+      "content": "Text is the sensory surface of the screenplay\u2014the spoken words and visible physical actions. Subtext is the inner life, the unspoken thoughts, desires, motivations, and hidden calculations running underneath. McKee's golden rule of dialogue is: 'If the scene is about what the scene is about, you're in deep shit.' Authentic dialogue is rarely on-the-nose; characters mask their true intentions, using words as tactical weapons to manipulate, protect themselves, or pursue hidden agendas.",
+      "key_takeaways": [
+        "Text is what is said; subtext is what is meant and felt.",
+        "Never write 'on-the-nose' dialogue where characters state their raw motivations.",
+        "Dialogue is action: characters use words as behavioral strategies to achieve objectives."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "mckee_story_the_crisis_and_climax",
+      "source_id": "mckee_story",
+      "source_title": "Story: Substance, Structure, Style and the Principles of Screenwriting",
+      "author": "Robert McKee",
+      "chapter_or_section": "Chapter 13: Crisis, Climax, and Resolution",
+      "page_number": 303,
+      "concept_name": "The Crisis and Climax",
+      "topic_category": "structure",
+      "content": "The Crisis is the ultimate decision point of the protagonist, representing their deepest dilemma. It presents a choice between irreconcilable goods (two desirable options) or the lesser of two evils. The decision made in the Crisis demands maximum courage and directly leads to the Climax\u2014the story's crowning turning point where the central dramatic question is resolved and the Controlling Idea is validated.",
+      "key_takeaways": [
+        "The Crisis is the story's ultimate dilemma: choice between irreconcilable goods or the lesser of two evils.",
+        "The Crisis forces the protagonist to reveal their true character under maximum pressure.",
+        "The Climax immediately flows from this choice, providing definitive catharsis."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Robert McKee, 'Story: Substance, Structure, Style and the Principles of Screenwriting' (ReganBooks / HarperCollins, 1997)",
+      "source_url": "https://mckeestory.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_15-beat_screenplay_structure",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 4: The Blake Snyder Beat Sheet (BS2 Overview)",
+      "page_number": 68,
+      "concept_name": "15-Beat Screenplay Structure",
+      "topic_category": "structure",
+      "content": "The Blake Snyder Beat Sheet (BS2) divides a standard 110-page screenplay into 15 precise dramaturgical beats: 1. Opening Image (p. 1), 2. Theme Stated (p. 5), 3. Set-up (pp. 1-10), 4. Catalyst (p. 12), 5. Debate (pp. 12-25), 6. Break into Two (p. 25), 7. B Story (p. 30), 8. Fun and Games (pp. 30-55), 9. Midpoint (p. 55), 10. Bad Guys Close In (pp. 55-75), 11. All Is Lost (p. 75), 12. Dark Night of the Soul (pp. 75-85), 13. Break into Three (p. 85), 14. Finale (pp. 85-110), 15. Final Image (p. 110). These beats ensure a calibrated pacing cycle balancing thesis, antithesis, and synthesis.",
+      "key_takeaways": [
+        "Provides 15 benchmark structural beats across a standard 110-page screenplay.",
+        "Calibrates narrative pacing with explicit page target benchmarks.",
+        "Ensures emotional peaks and valleys follow a disciplined dramatic rhythm."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_midpoint_&_all_is_lost_dynamic",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 4: Midpoint and All Is Lost",
+      "page_number": 82,
+      "concept_name": "Midpoint & All Is Lost Dynamic",
+      "topic_category": "structure",
+      "content": "The Midpoint (page 55) is either a false victory (up) or a false defeat (down). It raises the stakes from public to private, transforming the protagonist's journey from playful exploration into deadly earnestness. Conversely, the All Is Lost beat (page 75) is the inverted mirror of the Midpoint. If the Midpoint was a false peak, All Is Lost is the total nadir. Snyder emphasizes that All Is Lost must contain a 'whiff of death'\u2014either physical, emotional, or symbolic\u2014shattering the protagonist's old operating assumptions.",
+      "key_takeaways": [
+        "Midpoint is either a 'false high' or 'false low' that dramatically raises the stakes.",
+        "All Is Lost is the opposite extreme of the Midpoint, forcing the protagonist into rock bottom.",
+        "All Is Lost must contain a 'whiff of death'\u2014something must symbolically or literally die."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_debate_&_break_into_two",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 4: The Debate Beat and Break into Two",
+      "page_number": 74,
+      "concept_name": "Debate & Break into Two",
+      "topic_category": "structure",
+      "content": "Between the Catalyst (p. 12) and the Break into Two (p. 25) lies the Debate section. This sequence answers the question: Can the protagonist ignore the call or avoid the journey? The answer must always be no, but the character must deliberate, resist, or test alternatives. When they finally Break into Two, the protagonist must proactively choose to enter the Upside-Down World of Act Two. They cannot be pushed or passively pulled; they must step across the threshold under their own agency.",
+      "key_takeaways": [
+        "The Debate beat shows the gravity of the decision facing the protagonist.",
+        "Break into Two must be an active choice by the protagonist, never a passive accident.",
+        "Marks the clean boundary between the Thesis world (Act 1) and the Antithesis world (Act 2)."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_save_the_cat_character_introdu",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 1: The 'Save the Cat' Rule",
+      "page_number": 19,
+      "concept_name": "Save the Cat Character Introduction",
+      "topic_category": "character",
+      "content": "The namesake rule states that when we first meet the hero, they must perform an action that makes the audience like them and want to root for them\u2014such as saving a cat from a tree, showing unexpected compassion, or revealing a hidden vulnerability. Even if the protagonist is flawed, cynical, or anti-heroic (e.g., Pulp Fiction, Casablanca), the writer must establish an undeniable anchor of empathy and moral decency early in the first ten pages.",
+      "key_takeaways": [
+        "Establish audience empathy within the first 10 pages through a decisive humane or endearing action.",
+        "Essential for anti-heroes and morally ambiguous protagonists.",
+        "Gives the audience a compelling reason to invest emotionally in the character's survival and growth."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_pope_in_the_pool_exposition_ru",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 6: Immutable Screenwriting Laws (Pope in the Pool)",
+      "page_number": 133,
+      "concept_name": "Pope in the Pool Exposition Rule",
+      "topic_category": "dialogue",
+      "content": "Exposition is often tedious backstory or technical rules that the audience needs to comprehend the plot. The 'Pope in the Pool' rule dictates that when necessary exposition must be delivered, the writer should stage it during an arresting, humorous, or bizarre visual event (e.g., the Pope swimming in a Vatican pool wearing swim trunks). The audience's conscious attention is captured by the unusual spectacle while their subconscious effortlessly absorbs the vital exposition.",
+      "key_takeaways": [
+        "Never deliver dry exposition in a static, talking-heads conference room.",
+        "Pair heavy background information with visually arresting or comic conflict.",
+        "Masks the mechanical delivery of exposition behind active entertainment."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "snyder_save_the_cat_dark_night_of_the_soul",
+      "source_id": "snyder_save_the_cat",
+      "source_title": "Save the Cat! The Last Book on Screenwriting You'll Ever Need",
+      "author": "Blake Snyder",
+      "chapter_or_section": "Chapter 6: Dark Night of the Soul and Break into Three",
+      "page_number": 86,
+      "concept_name": "Dark Night of the Soul",
+      "topic_category": "character",
+      "content": "Following All Is Lost, the Dark Night of the Soul (pages 75-85) depicts the character's emotional mourning and existential despair. Having stripped away their ego, their old coping mechanisms, and their false wants, the protagonist sits in the dark and finally discovers what they truly 'need'. This realization acts as the catalytic spark for the Break into Three (p. 85), where a new synthesis emerges to launch the final battle.",
+      "key_takeaways": [
+        "Depicts the total surrender of the old ego and false coping mechanisms.",
+        "Allows the protagonist to discover their true Need before the final confrontation.",
+        "Acts as the essential emotional launchpad for the Act Three resurgence."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Blake Snyder, 'Save the Cat! The Last Book on Screenwriting You'll Ever Need' (Michael Wiese Productions, 2005)",
+      "source_url": "https://savethecat.com"
+    },
+    {
+      "chunk_id": "truby_anatomy_of_story_7_key_story_structure_steps",
+      "source_id": "truby_anatomy_of_story",
+      "source_title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "chapter_or_section": "Chapter 3: The Seven Key Steps of Story Structure",
+      "page_number": 39,
+      "concept_name": "7 Key Story Structure Steps",
+      "topic_category": "structure",
+      "content": "Truby synthesizes all classical storytelling into seven fundamental organic steps: 1. Weakness and Need (the character's inner psychological and moral flaw), 2. Desire (the specific tangible goal driving the spine of the plot), 3. Opponent (the force competing for the exact same goal), 4. Plan (the strategic guidelines the protagonist adopts to overcome the opponent), 5. Battle (the final physical and moral collision), 6. Self-Revelation (the epiphany where the hero sees the truth about themselves and their flaws), and 7. New Equilibrium (the re-stabilized world where life resumes at a higher or lower level).",
+      "key_takeaways": [
+        "7 organic structural beats rooted in character psychology rather than mechanical plot points.",
+        "The story spine is defined by Desire competing against the Opponent for a shared objective.",
+        "Culminates in Self-Revelation followed by a New Equilibrium."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Truby, 'The Anatomy of Story: 22 Steps to Becoming a Master Storyteller' (Faber and Faber, 2007)",
+      "source_url": "https://truby.com"
+    },
+    {
+      "chunk_id": "truby_anatomy_of_story_psychological_need_vs_moral_ne",
+      "source_id": "truby_anatomy_of_story",
+      "source_title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "chapter_or_section": "Chapter 4: Character - Psychological Need vs Moral Need",
+      "page_number": 78,
+      "concept_name": "Psychological Need vs Moral Need",
+      "topic_category": "character",
+      "content": "A great protagonist must have both a Psychological Need and a Moral Need. A Psychological Need is strictly internal; it is a fatal flaw or trauma that damages only the protagonist themselves (e.g., self-doubt, grief, fear). A Moral Need involves the protagonist's harmful behavior toward other human beings (e.g., arrogance, selfishness, cruelty, treating others as tools). An arc is incomplete unless the protagonist heals their psychological wound AND rights their moral damage to others by the climax.",
+      "key_takeaways": [
+        "Psychological Need affects only the hero's internal wellbeing and peace of mind.",
+        "Moral Need affects how the hero's actions hurt, exploit, or neglect other characters.",
+        "A true transformative character arc resolves both dimensions during the Self-Revelation."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Truby, 'The Anatomy of Story: 22 Steps to Becoming a Master Storyteller' (Faber and Faber, 2007)",
+      "source_url": "https://truby.com"
+    },
+    {
+      "chunk_id": "truby_anatomy_of_story_four-corner_opposition_matrix",
+      "source_id": "truby_anatomy_of_story",
+      "source_title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "chapter_or_section": "Chapter 4: Four-Corner Opposition",
+      "page_number": 97,
+      "concept_name": "Four-Corner Opposition Matrix",
+      "topic_category": "antagonist",
+      "content": "Rather than relying on a solitary villain, superior screenwriting builds a Four-Corner Opposition. The hero is surrounded by at least three distinct opponents, each occupying a unique ideological and moral corner of the story world. Each opponent attacks a different facet of the hero's central weakness and operates from a distinct, defensible philosophy. This matrix forces the hero into varied conflicts and prevents monochromatic good-versus-evil melodrama.",
+      "key_takeaways": [
+        "Create at least three opponents surrounding the hero, forming a 4-corner conflict matrix.",
+        "Each opponent attacks a different vulnerability in the hero's psychological/moral makeup.",
+        "Every opponent must possess a coherent, competing philosophical worldview."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Truby, 'The Anatomy of Story: 22 Steps to Becoming a Master Storyteller' (Faber and Faber, 2007)",
+      "source_url": "https://truby.com"
+    },
+    {
+      "chunk_id": "truby_anatomy_of_story_moral_argument_and_designing_p",
+      "source_id": "truby_anatomy_of_story",
+      "source_title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "chapter_or_section": "Chapter 5: Moral Argument and Theme",
+      "page_number": 107,
+      "concept_name": "Moral Argument and Designing Principle",
+      "topic_category": "theme",
+      "content": "Theme in screenwriting is the author's moral argument about how human beings ought to live. Truby rejects preaching or didactic lectures; the moral argument is enacted through character actions and consequences. The Designing Principle is the story's underlying aesthetic DNA\u2014the organic metaphor or lens that organizes story materials into an original whole (e.g., in Casablanca, the designing principle is 'a cynical nightclub owner must choose between personal romantic passion and self-sacrificing political commitment in an international purgatory').",
+      "key_takeaways": [
+        "Theme is an active moral argument proven through the cause-and-effect consequences of characters' choices.",
+        "Avoid preaching: let the structure and character fates argue the author's philosophical premise.",
+        "The Designing Principle is the unifying conceptual metaphor governing the entire narrative."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Truby, 'The Anatomy of Story: 22 Steps to Becoming a Master Storyteller' (Faber and Faber, 2007)",
+      "source_url": "https://truby.com"
+    },
+    {
+      "chunk_id": "truby_anatomy_of_story_22-step_battle_and_self-revela",
+      "source_id": "truby_anatomy_of_story",
+      "source_title": "The Anatomy of Story: 22 Steps to Becoming a Master Storyteller",
+      "author": "John Truby",
+      "chapter_or_section": "Chapter 8: The 22-Step Plot Structure (Battle to New Equilibrium)",
+      "page_number": 265,
+      "concept_name": "22-Step Battle and Self-Revelation",
+      "topic_category": "structure",
+      "content": "In Truby's comprehensive 22-step model, the Battle (Step 18) serves as the climactic collision where the protagonist faces the main opponent. This intense conflict precipitates Step 19: Double Self-Revelation, where the hero unmasks the truth about themselves and recognizes the opponent's true nature. In Step 20 (Moral Decision), the hero chooses between two ethical paths, leading to Step 21 (Thematic Revelation) and finally Step 22 (New Equilibrium).",
+      "key_takeaways": [
+        "Battle must directly trigger the hero's internal epiphany (Self-Revelation).",
+        "Double Self-Revelation allows the hero to understand themselves and their adversary concurrently.",
+        "The Moral Decision crystallizes the story's philosophical argument."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Truby, 'The Anatomy of Story: 22 Steps to Becoming a Master Storyteller' (Faber and Faber, 2007)",
+      "source_url": "https://truby.com"
+    },
+    {
+      "chunk_id": "field_screenplay_three-act_paradigm_(field)",
+      "source_id": "field_screenplay",
+      "source_title": "Screenplay: The Foundations of Screenwriting",
+      "author": "Syd Field",
+      "chapter_or_section": "Chapter 1: The Paradigm of Screenplay Structure",
+      "page_number": 21,
+      "concept_name": "Three-Act Paradigm (Field)",
+      "topic_category": "structure",
+      "content": "A screenplay is a story told with pictures, in dialogue and description, and placed within the context of dramatic structure. Syd Field's foundational Paradigm organizes the screenplay into three distinct acts: Act I (Set-up, pages 1 to 30), Act II (Confrontation, pages 30 to 90), and Act III (Resolution, pages 90 to 120). Act I introduces the main character, the dramatic premise, and the situation. Act II introduces obstacle after obstacle preventing the character from achieving their dramatic need. Act III resolves the story completely.",
+      "key_takeaways": [
+        "Act I (Set-up, pp 1-30), Act II (Confrontation, pp 30-90), Act III (Resolution, pp 90-120).",
+        "Ratio: roughly 1 unit Act I, 2 units Act II, 1 unit Act III.",
+        "Establishes the dramatic premise and character's dramatic context in the first 10 pages."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Syd Field, 'Screenplay: The Foundations of Screenwriting' (Delta / Bantam Dell, 1979)",
+      "source_url": "https://sydfield.com"
+    },
+    {
+      "chunk_id": "field_screenplay_plot_points_&_directional_reve",
+      "source_id": "field_screenplay",
+      "source_title": "Screenplay: The Foundations of Screenwriting",
+      "author": "Syd Field",
+      "chapter_or_section": "Chapter 7: Plot Points (Plot Point I and II)",
+      "page_number": 142,
+      "concept_name": "Plot Points & Directional Reversals",
+      "topic_category": "structure",
+      "content": "A Plot Point is an incident, episode, or event that hooks into the action and spins it around in a different direction. Plot Point I occurs at the end of Act I (approximately pages 20-30); it propels the protagonist into the main action of Act II and locks them into their journey with no return. Plot Point II occurs at the end of Act II (approximately pages 80-90); it is the ultimate crisis or revelation that catapults the story into Act III, initiating the climax.",
+      "key_takeaways": [
+        "A Plot Point turns the dramatic action into an entirely new, irreversible direction.",
+        "Plot Point I locks the protagonist into Act II Confrontation.",
+        "Plot Point II initiates the inevitable race toward Act III Resolution."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Syd Field, 'Screenplay: The Foundations of Screenwriting' (Delta / Bantam Dell, 1979)",
+      "source_url": "https://sydfield.com"
+    },
+    {
+      "chunk_id": "field_screenplay_midpoint_and_pinch_points_(fie",
+      "source_id": "field_screenplay",
+      "source_title": "Screenplay: The Foundations of Screenwriting",
+      "author": "Syd Field",
+      "chapter_or_section": "Chapter 8: The Scene and Pinch Points",
+      "page_number": 159,
+      "concept_name": "Midpoint and Pinch Points (Field)",
+      "topic_category": "pacing",
+      "content": "Act II is 60 pages long and prone to sagging without structural anchors. Field divides Act II in half with the Midpoint on page 60, acting as a crucial turning point. Between Plot Point I and the Midpoint lies Pinch Point I (around page 45); between the Midpoint and Plot Point II lies Pinch Point II (around page 75). A Pinch Point is a scene that clearly demonstrates the power and threat of the antagonistic force, 'pinching' the protagonist and refocusing the audience on the central stakes.",
+      "key_takeaways": [
+        "Midpoint (p. 60) divides the 60-page Act II to prevent narrative sag.",
+        "Pinch Point I (p. 45) and Pinch Point II (p. 75) showcase the adversary's menacing presence.",
+        "Keeps the tension pressurized and maintains relentless narrative momentum."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Syd Field, 'Screenplay: The Foundations of Screenwriting' (Delta / Bantam Dell, 1979)",
+      "source_url": "https://sydfield.com"
+    },
+    {
+      "chunk_id": "field_screenplay_dramatic_need_and_character_mo",
+      "source_id": "field_screenplay",
+      "source_title": "Screenplay: The Foundations of Screenwriting",
+      "author": "Syd Field",
+      "chapter_or_section": "Chapter 4: Character and Dramatic Need",
+      "page_number": 56,
+      "concept_name": "Dramatic Need and Character Motivation",
+      "topic_category": "character",
+      "content": "The engine of characterization is the protagonist's Dramatic Need: what does your character want to win, gain, get, or achieve during the course of the screenplay? The dramatic need drives the action and dictates every decision the character makes. All drama is conflict; without a clearly defined dramatic need meeting relentless resistance, the character is passive, and the screenplay has no forward propulsion.",
+      "key_takeaways": [
+        "Dramatic Need is the protagonist's concrete objective across the entire script.",
+        "All scenes must challenge or advance the fulfillment of the character's dramatic need.",
+        "Passivity is the fatal flaw in screenplay characterization; the hero must drive action."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Syd Field, 'Screenplay: The Foundations of Screenwriting' (Delta / Bantam Dell, 1979)",
+      "source_url": "https://sydfield.com"
+    },
+    {
+      "chunk_id": "vogler_writers_journey_12_stages_of_the_hero's_journe",
+      "source_id": "vogler_writers_journey",
+      "source_title": "The Writer's Journey: Mythic Structure for Writers",
+      "author": "Christopher Vogler",
+      "chapter_or_section": "Chapter 2: The Twelve Stages of the Hero's Journey",
+      "page_number": 8,
+      "concept_name": "12 Stages of the Hero's Journey",
+      "topic_category": "structure",
+      "content": "Vogler adapts Joseph Campbell's comparative mythological monomyth for modern screenwriting into 12 universal stages: 1. Ordinary World (establishing the baseline flaw and baseline reality), 2. Call to Adventure (the inciting disruption), 3. Refusal of the Call (the hero's fear and hesitation), 4. Meeting with the Mentor (receiving wisdom, gifts, or guidance), 5. Crossing the First Threshold (committing to the Special World of adventure), 6. Tests, Allies, and Enemies (learning the rules of the new world), 7. Approach to the Inmost Cave (preparing for the central confrontation), 8. The Ordeal (facing death or their greatest fear), 9. Reward / Seizing the Sword (celebration and claiming the treasure), 10. The Road Back (consequences of taking the reward and urgency to return), 11. The Resurrection (final life-or-death test purifying the hero), 12. Return with the Elixir (bringing healing, wisdom, or freedom back to the community).",
+      "key_takeaways": [
+        "12 mythic checkpoints connecting the physical journey with profound psychological transformation.",
+        "Divided into Ordinary World (Act 1), Special World (Act 2), and Transformed World (Act 3).",
+        "The journey is circular: the hero returns to where they started, permanently changed."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Christopher Vogler, 'The Writer's Journey: Mythic Structure for Writers' (Michael Wiese Productions, 1998)",
+      "source_url": "https://mwp.com"
+    },
+    {
+      "chunk_id": "vogler_writers_journey_character_archetypes_(vogler)",
+      "source_id": "vogler_writers_journey",
+      "source_title": "The Writer's Journey: Mythic Structure for Writers",
+      "author": "Christopher Vogler",
+      "chapter_or_section": "Chapter 3: Archetypes of the Story World",
+      "page_number": 23,
+      "concept_name": "Character Archetypes (Vogler)",
+      "topic_category": "character",
+      "content": "Archetypes are psychological masks and dramatic functions that characters adopt throughout the story. The primary archetypes are: 1. Hero (the ego searching for wholeness), 2. Mentor (the conscience, teacher, or higher self providing tools and guidance), 3. Threshold Guardian (forces testing the hero's readiness to advance), 4. Herald (the messenger or catalyst announcing change), 5. Shapeshifter (figures who shift loyalty, gender, or appearance, bringing doubt and romance), 6. Shadow (the dark side of the psyche, the antagonist representing unexpressed or repressed potential), 7. Ally (companions offering tactical and emotional support), and 8. Trickster (comic relief and embodiment of mischief who challenges the status quo).",
+      "key_takeaways": [
+        "Archetypes are fluid dramatic functions rather than rigid character types.",
+        "A single character may fulfill multiple archetypal roles across the story.",
+        "Reflect Jungian psychological facets of the human psyche."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Christopher Vogler, 'The Writer's Journey: Mythic Structure for Writers' (Michael Wiese Productions, 1998)",
+      "source_url": "https://mwp.com"
+    },
+    {
+      "chunk_id": "vogler_writers_journey_the_ordeal_vs_the_resurrection",
+      "source_id": "vogler_writers_journey",
+      "source_title": "The Writer's Journey: Mythic Structure for Writers",
+      "author": "Christopher Vogler",
+      "chapter_or_section": "Chapter 12: The Ordeal and Resurrection",
+      "page_number": 155,
+      "concept_name": "The Ordeal vs The Resurrection",
+      "topic_category": "climax",
+      "content": "The Ordeal (Midpoint of Act 2) is a critical life-and-death crisis where the hero experiences symbolic death, touches bottom, and confronts their greatest fear. By surviving, they earn the Reward. However, the Resurrection (Act 3 Climax) is the ultimate life-or-death exam. While the Ordeal was personal, the Resurrection tests whether the hero has truly integrated their transformation. If the hero does not die to their old self and rise renewed in the Resurrection, they cannot bring the Elixir home.",
+      "key_takeaways": [
+        "The Ordeal is the midpoint crisis confronting mortal danger and internal terror.",
+        "The Resurrection is the climactic graduation exam proving permanent character rebirth.",
+        "The hero must demonstrate behavioral change in action, not just words."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "Christopher Vogler, 'The Writer's Journey: Mythic Structure for Writers' (Michael Wiese Productions, 1998)",
+      "source_url": "https://mwp.com"
+    },
+    {
+      "chunk_id": "yorke_into_the_woods_fractal_five-act_structure_(yo",
+      "source_id": "yorke_into_the_woods",
+      "source_title": "Into the Woods: How Stories Work and Why We Tell Them",
+      "author": "John Yorke",
+      "chapter_or_section": "Chapter 2: The Five-Act Shape and Its Fractal Nature",
+      "page_number": 27,
+      "concept_name": "Fractal Five-Act Structure (Yorke)",
+      "topic_category": "structure",
+      "content": "Yorke demonstrates that three-act structure is merely five-act structure with the long second act divided into two halves. A complete story naturally unfolds in five movements: Act 1 (Entering the Woods / Inciting Disruption), Act 2 (The Road of Trials / Grasping at the False Goal), Act 3 (The Point of No Return / The Midpoint Mirror), Act 4 (The Inward Plunge / The Fall from Grace), and Act 5 (The Final Integration / Synthesis). Crucially, this five-act shape is fractal: every scene, sequence, and act internally mimics this same 5-part architecture.",
+      "key_takeaways": [
+        "Stories naturally follow a 5-act rhythm: Entry, Trials, Midpoint Mirror, The Fall, Synthesis.",
+        "Fractal nature: every scene and sequence mirrors the macro five-act structural curve.",
+        "Resolves the sag of Act II by acknowledging it as two distinct dramatic movements (Acts 2 & 3)."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Yorke, 'Into the Woods: How Stories Work and Why We Tell Them' (Penguin Books / Overlook Press, 2013)",
+      "source_url": "https://johnyorke.tv"
+    },
+    {
+      "chunk_id": "yorke_into_the_woods_dialectical_storytelling_(hege",
+      "source_id": "yorke_into_the_woods",
+      "source_title": "Into the Woods: How Stories Work and Why We Tell Them",
+      "author": "John Yorke",
+      "chapter_or_section": "Chapter 4: The Dialectic of Storytelling (Thesis, Antithesis, Synthesis)",
+      "page_number": 64,
+      "concept_name": "Dialectical Storytelling (Hegelian)",
+      "topic_category": "theme",
+      "content": "Storytelling is fundamentally Hegelian dialectic in motion. Act 1 represents the Thesis\u2014the protagonist's flawed, comfortable status quo and rigid perception of reality. Act 2 and 3 immerse the hero in the Antithesis\u2014the inverted opposite of their previous world where their previous rules and ego defense mechanisms fail. In Act 4 and 5, after shattering conflict, the hero achieves Synthesis: the integration of what was true in their original state with the wisdom learned from their antithetical trial.",
+      "key_takeaways": [
+        "Act 1 is Thesis (flawed baseline reality).",
+        "Act 2/3 is Antithesis (direct experiential confrontation with the opposite value).",
+        "Act 4/5 produces Synthesis (psychological wholeness through integrated wisdom)."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Yorke, 'Into the Woods: How Stories Work and Why We Tell Them' (Penguin Books / Overlook Press, 2013)",
+      "source_url": "https://johnyorke.tv"
+    },
+    {
+      "chunk_id": "yorke_into_the_woods_the_midpoint_mirror_(yorke)",
+      "source_id": "yorke_into_the_woods",
+      "source_title": "Into the Woods: How Stories Work and Why We Tell Them",
+      "author": "John Yorke",
+      "chapter_or_section": "Chapter 6: The Midpoint as Mirror",
+      "page_number": 103,
+      "concept_name": "The Midpoint Mirror (Yorke)",
+      "topic_category": "structure",
+      "content": "The exact geometric center of a narrative (the Midpoint) is not just a major plot twist; it is the moment of psychological reflection\u2014the 'Mirror.' At the Midpoint, the protagonist is forced to catch a glimpse of their own true reflection, recognizing the lie they have been telling themselves. Before the midpoint, the hero believed they could conquer the world while keeping their inner flaw intact; after the midpoint, they realize that to survive, their flawed self must die.",
+      "key_takeaways": [
+        "The Midpoint acts as a mirror where the protagonist glimpses their true psychological nature.",
+        "Marks the transition from pursuit of external Wants to recognition of internal Needs.",
+        "Shifts the hero from proactive delusion into existential clarity."
+      ],
+      "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+      "publication_info": "John Yorke, 'Into the Woods: How Stories Work and Why We Tell Them' (Penguin Books / Overlook Press, 2013)",
+      "source_url": "https://johnyorke.tv"
+    },
+    {
+      "chunk_id": "classical_dramaturgical_foundations_aristotelian_plot_causality_(p",
+      "source_id": "classical_dramaturgical_foundations",
+      "source_title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "chapter_or_section": "Aristotle's Poetics: Plot Causality, Peripeteia, and Anagnorisis",
+      "page_number": 1,
+      "concept_name": "Aristotelian Plot Causality (Probability and Necessity)",
+      "topic_category": "structure",
+      "content": "In Poetics (c. 335 BCE), Aristotle establishes that Plot (Mythos) is the soul of tragedy, superior even to character. A well-constructed plot must possess a beginning, middle, and end bound by strict causality: events must arise not merely 'after' one another (post hoc), but 'because of' one another (propter hoc) according to the laws of probability or necessity. Two crowning plot mechanisms define the tragic climax: 1. Peripeteia (the sudden reversal of fortune or intention, where an action produces the exact opposite of its intended result), and 2. Anagnorisis (the transition from ignorance to knowledge, the discovery of true identity or moral truth). When Peripeteia and Anagnorisis coincide, they evoke maximum Pity and Fear, yielding Catharsis.",
+      "key_takeaways": [
+        "Events must occur through strict causal necessity (because of), never episodic sequence (and then).",
+        "Peripeteia is the sudden reversal where an intended deed rebounds to produce the opposite outcome.",
+        "Anagnorisis is the profound awakening from blindness to self-knowledge.",
+        "Catharsis is the emotional purgation and psychological clarity achieved at the resolution."
+      ],
+      "license_status": "Public Domain & Educational Open Research",
+      "publication_info": "Aristotle, Gustav Freytag, and Screenwriting Academics, 'Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations' (Public Domain & Authoritative Screenwriting Curricula, 1894)",
+      "source_url": "https://gutenberg.org"
+    },
+    {
+      "chunk_id": "classical_dramaturgical_foundations_freytag's_pyramid_(five-act_dr",
+      "source_id": "classical_dramaturgical_foundations",
+      "source_title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "chapter_or_section": "Gustav Freytag: The Dramatic Pyramid (Five-Act Dramatic Arch)",
+      "page_number": 104,
+      "concept_name": "Freytag's Pyramid (Five-Act Dramatic Arc)",
+      "topic_category": "structure",
+      "content": "In Technique of the Drama (1863), Gustav Freytag formulated the five-part dramatic pyramid: 1. Introduction (Exposition establishing mood, time, characters), 2. Rising Movement (complication via the exciting force pushing through ascending obstacles), 3. Climax (the absolute summit where the central conflict reaches its peak and the hero's fate turns), 4. Falling Action (the tragic counter-thrust, featuring a moment of final suspense), and 5. Catastrophe or Denouement (the resolution of the conflict, unraveling all subplots and establishing final order).",
+      "key_takeaways": [
+        "5-part dramatic arc: Introduction, Rising Action, Climax, Falling Action, Catastrophe/Denouement.",
+        "The Climax sits at the apex, dividing the rising upward struggle from the falling consequence.",
+        "The Falling Action must contain a moment of final suspense to preserve audience engagement."
+      ],
+      "license_status": "Public Domain & Educational Open Research",
+      "publication_info": "Aristotle, Gustav Freytag, and Screenwriting Academics, 'Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations' (Public Domain & Authoritative Screenwriting Curricula, 1894)",
+      "source_url": "https://gutenberg.org"
+    },
+    {
+      "chunk_id": "classical_dramaturgical_foundations_scene_construction_mechanics",
+      "source_id": "classical_dramaturgical_foundations",
+      "source_title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "chapter_or_section": "Screenplay Craft: Scene Construction (Goal, Conflict, Turn, Outcome)",
+      "page_number": 45,
+      "concept_name": "Scene Construction Mechanics",
+      "topic_category": "scene_design",
+      "content": "Every properly dramatized scene requires four essential structural components: 1. Goal (the character enters the scene with an urgent, conscious objective), 2. Conflict (they encounter direct, immediate opposition from another character, the environment, or their own inhibition), 3. The Turn (the unexpected shift in the power dynamic or introduction of new information that alters the landscape), and 4. The Outcome (the character either fails, achieves the goal at unexpected cost, or suffers a worse disaster, launching the motivation for the subsequent scene).",
+      "key_takeaways": [
+        "Characters must enter every scene with a proactive, immediate objective.",
+        "Immediate opposition creates an active dramatic confrontation.",
+        "The scene must turn on an unexpected shift and produce an altered outcome."
+      ],
+      "license_status": "Public Domain & Educational Open Research",
+      "publication_info": "Aristotle, Gustav Freytag, and Screenwriting Academics, 'Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations' (Public Domain & Authoritative Screenwriting Curricula, 1894)",
+      "source_url": "https://gutenberg.org"
+    },
+    {
+      "chunk_id": "classical_dramaturgical_foundations_dramatic_tension,_irony,_and_t",
+      "source_id": "classical_dramaturgical_foundations",
+      "source_title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "chapter_or_section": "Screenplay Craft: Dramatic Tension and Pacing",
+      "page_number": 88,
+      "concept_name": "Dramatic Tension, Irony, and Ticking Clock",
+      "topic_category": "pacing",
+      "content": "Dramatic tension is maintained through two primary techniques: Information Disparity and Temporal Compression. Dramatic Irony occurs when the audience knows a vital piece of information that the characters do not (e.g., Hitchcock's bomb beneath the table). This generates sustained suspense rather than momentary shock. A Ticking Clock imposes a strict deadline on the protagonist's objective (e.g., 24 hours to defuse a weapon or 3 days until an execution), eliminating narrative drift, increasing pulse, and forcing irreversible decisions.",
+      "key_takeaways": [
+        "Dramatic Irony engages the audience by granting them knowledge the characters lack.",
+        "Generates sustained agonizing suspense rather than brief surprise or shock.",
+        "A Ticking Clock compresses dramatic time and magnifies psychological urgency."
+      ],
+      "license_status": "Public Domain & Educational Open Research",
+      "publication_info": "Aristotle, Gustav Freytag, and Screenwriting Academics, 'Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations' (Public Domain & Authoritative Screenwriting Curricula, 1894)",
+      "source_url": "https://gutenberg.org"
+    },
+    {
+      "chunk_id": "classical_dramaturgical_foundations_antagonist_development_&_psych",
+      "source_id": "classical_dramaturgical_foundations",
+      "source_title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+      "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+      "chapter_or_section": "Screenplay Craft: Antagonist Construction (The Worthy Adversary)",
+      "page_number": 120,
+      "concept_name": "Antagonist Development & Psychological Mirroring",
+      "topic_category": "antagonist",
+      "content": "A compelling antagonist is never evil merely for the sake of evil; in their own mind, the antagonist is the hero of their own story. The antagonist must act as the dark mirror to the protagonist, embodying what the hero could become if they surrender entirely to their flaw. Furthermore, the antagonist must be more powerful, more resourceful, and more skilled than the hero throughout the first two acts. Only by undergoing genuine transformation can the protagonist hope to overcome an adversary who is superior in strength.",
+      "key_takeaways": [
+        "The antagonist is the righteous protagonist of their own internal worldview.",
+        "Functions as a psychological mirror reflecting the hero's unexpressed shadow.",
+        "Must be formidable and superior to the hero until the hero earns transformation."
+      ],
+      "license_status": "Public Domain & Educational Open Research",
+      "publication_info": "Aristotle, Gustav Freytag, and Screenwriting Academics, 'Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations' (Public Domain & Authoritative Screenwriting Curricula, 1894)",
+      "source_url": "https://gutenberg.org"
+    }
+  ]
+}

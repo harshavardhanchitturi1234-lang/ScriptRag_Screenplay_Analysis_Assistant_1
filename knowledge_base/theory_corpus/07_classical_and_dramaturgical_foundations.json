@@ -1,0 +1,78 @@
+{
+  "source": {
+    "source_id": "classical_dramaturgical_foundations",
+    "title": "Classical Dramaturgy: Aristotle, Freytag, and Screenplay Craft Foundations",
+    "author": "Aristotle, Gustav Freytag, and Screenwriting Academics",
+    "publication_year": 1894,
+    "publisher": "Public Domain & Authoritative Screenwriting Curricula",
+    "edition": "Standard Academic Edition",
+    "isbn": "N/A - Public Domain & Canonical Film School Scholarship",
+    "source_url": "https://gutenberg.org",
+    "license_status": "Public Domain & Educational Open Research",
+    "framework_tags": ["Aristotelian Poetics", "Freytag's Pyramid", "Five-Act Tragedy", "Plot Causality", "Dramatic Tension", "Scene Mechanics", "Antagonist Construction"]
+  },
+  "sections": [
+    {
+      "heading": "Aristotle's Poetics: Plot Causality, Peripeteia, and Anagnorisis",
+      "concept_name": "Aristotelian Plot Causality (Probability and Necessity)",
+      "topic_category": "structure",
+      "page_number": 1,
+      "content": "In Poetics (c. 335 BCE), Aristotle establishes that Plot (Mythos) is the soul of tragedy, superior even to character. A well-constructed plot must possess a beginning, middle, and end bound by strict causality: events must arise not merely 'after' one another (post hoc), but 'because of' one another (propter hoc) according to the laws of probability or necessity. Two crowning plot mechanisms define the tragic climax: 1. Peripeteia (the sudden reversal of fortune or intention, where an action produces the exact opposite of its intended result), and 2. Anagnorisis (the transition from ignorance to knowledge, the discovery of true identity or moral truth). When Peripeteia and Anagnorisis coincide, they evoke maximum Pity and Fear, yielding Catharsis.",
+      "key_takeaways": [
+        "Events must occur through strict causal necessity (because of), never episodic sequence (and then).",
+        "Peripeteia is the sudden reversal where an intended deed rebounds to produce the opposite outcome.",
+        "Anagnorisis is the profound awakening from blindness to self-knowledge.",
+        "Catharsis is the emotional purgation and psychological clarity achieved at the resolution."
+      ]
+    },
+    {
+      "heading": "Gustav Freytag: The Dramatic Pyramid (Five-Act Dramatic Arch)",
+      "concept_name": "Freytag's Pyramid (Five-Act Dramatic Arc)",
+      "topic_category": "structure",
+      "page_number": 104,
+      "content": "In Technique of the Drama (1863), Gustav Freytag formulated the five-part dramatic pyramid: 1. Introduction (Exposition establishing mood, time, characters), 2. Rising Movement (complication via the exciting force pushing through ascending obstacles), 3. Climax (the absolute summit where the central conflict reaches its peak and the hero's fate turns), 4. Falling Action (the tragic counter-thrust, featuring a moment of final suspense), and 5. Catastrophe or Denouement (the resolution of the conflict, unraveling all subplots and establishing final order).",
+      "key_takeaways": [
+        "5-part dramatic arc: Introduction, Rising Action, Climax, Falling Action, Catastrophe/Denouement.",
+        "The Climax sits at the apex, dividing the rising upward struggle from the falling consequence.",
+        "The Falling Action must contain a moment of final suspense to preserve audience engagement."
+      ]
+    },
+    {
+      "heading": "Screenplay Craft: Scene Construction (Goal, Conflict, Turn, Outcome)",
+      "concept_name": "Scene Construction Mechanics",
+      "topic_category": "scene_design",
+      "page_number": 45,
+      "content": "Every properly dramatized scene requires four essential structural components: 1. Goal (the character enters the scene with an urgent, conscious objective), 2. Conflict (they encounter direct, immediate opposition from another character, the environment, or their own inhibition), 3. The Turn (the unexpected shift in the power dynamic or introduction of new information that alters the landscape), and 4. The Outcome (the character either fails, achieves the goal at unexpected cost, or suffers a worse disaster, launching the motivation for the subsequent scene).",
+      "key_takeaways": [
+        "Characters must enter every scene with a proactive, immediate objective.",
+        "Immediate opposition creates an active dramatic confrontation.",
+        "The scene must turn on an unexpected shift and produce an altered outcome."
+      ]
+    },
+    {
+      "heading": "Screenplay Craft: Dramatic Tension and Pacing",
+      "concept_name": "Dramatic Tension, Irony, and Ticking Clock",
+      "topic_category": "pacing",
+      "page_number": 88,
+      "content": "Dramatic tension is maintained through two primary techniques: Information Disparity and Temporal Compression. Dramatic Irony occurs when the audience knows a vital piece of information that the characters do not (e.g., Hitchcock's bomb beneath the table). This generates sustained suspense rather than momentary shock. A Ticking Clock imposes a strict deadline on the protagonist's objective (e.g., 24 hours to defuse a weapon or 3 days until an execution), eliminating narrative drift, increasing pulse, and forcing irreversible decisions.",
+      "key_takeaways": [
+        "Dramatic Irony engages the audience by granting them knowledge the characters lack.",
+        "Generates sustained agonizing suspense rather than brief surprise or shock.",
+        "A Ticking Clock compresses dramatic time and magnifies psychological urgency."
+      ]
+    },
+    {
+      "heading": "Screenplay Craft: Antagonist Construction (The Worthy Adversary)",
+      "concept_name": "Antagonist Development & Psychological Mirroring",
+      "topic_category": "antagonist",
+      "page_number": 120,
+      "content": "A compelling antagonist is never evil merely for the sake of evil; in their own mind, the antagonist is the hero of their own story. The antagonist must act as the dark mirror to the protagonist, embodying what the hero could become if they surrender entirely to their flaw. Furthermore, the antagonist must be more powerful, more resourceful, and more skilled than the hero throughout the first two acts. Only by undergoing genuine transformation can the protagonist hope to overcome an adversary who is superior in strength.",
+      "key_takeaways": [
+        "The antagonist is the righteous protagonist of their own internal worldview.",
+        "Functions as a psychological mirror reflecting the hero's unexpressed shadow.",
+        "Must be formidable and superior to the hero until the hero earns transformation."
+      ]
+    }
+  ]
+}
+

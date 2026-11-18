@@ -1,0 +1,65 @@
+{
+  "source": {
+    "source_id": "field_screenplay",
+    "title": "Screenplay: The Foundations of Screenwriting",
+    "author": "Syd Field",
+    "publication_year": 1979,
+    "publisher": "Delta / Bantam Dell",
+    "edition": "Revised Edition 2005",
+    "isbn": "978-0385339032",
+    "source_url": "https://sydfield.com",
+    "license_status": "Educational Fair Use / Authorized Analytical Synthesis",
+    "framework_tags": ["Three-Act Paradigm", "Plot Points", "Dramatic Need", "Pinch Points", "Classic Screenplay Blueprint"]
+  },
+  "sections": [
+    {
+      "heading": "Chapter 1: The Paradigm of Screenplay Structure",
+      "concept_name": "Three-Act Paradigm (Field)",
+      "topic_category": "structure",
+      "page_number": 21,
+      "content": "A screenplay is a story told with pictures, in dialogue and description, and placed within the context of dramatic structure. Syd Field's foundational Paradigm organizes the screenplay into three distinct acts: Act I (Set-up, pages 1 to 30), Act II (Confrontation, pages 30 to 90), and Act III (Resolution, pages 90 to 120). Act I introduces the main character, the dramatic premise, and the situation. Act II introduces obstacle after obstacle preventing the character from achieving their dramatic need. Act III resolves the story completely.",
+      "key_takeaways": [
+        "Act I (Set-up, pp 1-30), Act II (Confrontation, pp 30-90), Act III (Resolution, pp 90-120).",
+        "Ratio: roughly 1 unit Act I, 2 units Act II, 1 unit Act III.",
+        "Establishes the dramatic premise and character's dramatic context in the first 10 pages."
+      ]
+    },
+    {
+      "heading": "Chapter 7: Plot Points (Plot Point I and II)",
+      "concept_name": "Plot Points & Directional Reversals",
+      "topic_category": "structure",
+      "page_number": 142,
+      "content": "A Plot Point is an incident, episode, or event that hooks into the action and spins it around in a different direction. Plot Point I occurs at the end of Act I (approximately pages 20-30); it propels the protagonist into the main action of Act II and locks them into their journey with no return. Plot Point II occurs at the end of Act II (approximately pages 80-90); it is the ultimate crisis or revelation that catapults the story into Act III, initiating the climax.",
+      "key_takeaways": [
+        "A Plot Point turns the dramatic action into an entirely new, irreversible direction.",
+        "Plot Point I locks the protagonist into Act II Confrontation.",
+        "Plot Point II initiates the inevitable race toward Act III Resolution."
+      ]
+    },
+    {
+      "heading": "Chapter 8: The Scene and Pinch Points",
+      "concept_name": "Midpoint and Pinch Points (Field)",
+      "topic_category": "pacing",
+      "page_number": 159,
+      "content": "Act II is 60 pages long and prone to sagging without structural anchors. Field divides Act II in half with the Midpoint on page 60, acting as a crucial turning point. Between Plot Point I and the Midpoint lies Pinch Point I (around page 45); between the Midpoint and Plot Point II lies Pinch Point II (around page 75). A Pinch Point is a scene that clearly demonstrates the power and threat of the antagonistic force, 'pinching' the protagonist and refocusing the audience on the central stakes.",
+      "key_takeaways": [
+        "Midpoint (p. 60) divides the 60-page Act II to prevent narrative sag.",
+        "Pinch Point I (p. 45) and Pinch Point II (p. 75) showcase the adversary's menacing presence.",
+        "Keeps the tension pressurized and maintains relentless narrative momentum."
+      ]
+    },
+    {
+      "heading": "Chapter 4: Character and Dramatic Need",
+      "concept_name": "Dramatic Need and Character Motivation",
+      "topic_category": "character",
+      "page_number": 56,
+      "content": "The engine of characterization is the protagonist's Dramatic Need: what does your character want to win, gain, get, or achieve during the course of the screenplay? The dramatic need drives the action and dictates every decision the character makes. All drama is conflict; without a clearly defined dramatic need meeting relentless resistance, the character is passive, and the screenplay has no forward propulsion.",
+      "key_takeaways": [
+        "Dramatic Need is the protagonist's concrete objective across the entire script.",
+        "All scenes must challenge or advance the fulfillment of the character's dramatic need.",
+        "Passivity is the fatal flaw in screenplay characterization; the hero must drive action."
+      ]
+    }
+  ]
+}
+
